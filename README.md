@@ -1,0 +1,1 @@
+# MC Addon Manager
